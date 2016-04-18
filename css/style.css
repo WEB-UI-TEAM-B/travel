@@ -39,3 +39,28 @@ nav {
 footer {
 	clear: both;
 }
+
+/*--mrVolodymyr--*/
+
+.voFoto1 {
+	width: 160px;
+	height: 120px;
+	margin: 20px 30px;
+
+}
+.voP {
+	margin: 10px 20px;
+	font-family: veranda;
+}
+.voFoto2 {
+	width: 160px;
+	height: 120px;
+	margin: 20px 35px;
+	display: inline;
+	position: relative;
+	bottom: 10px;
+	opacity: 0.5;
+}
+.voFoto2:hover {
+	opacity: 1;
+}
