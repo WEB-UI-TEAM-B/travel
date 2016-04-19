@@ -15,6 +15,8 @@ body {
 }
 header {
 	text-align: center;
+	background: #466368;
+	background: radial-gradient(#648880, #293f50);
 }
 li {
 	display: inline;
@@ -25,6 +27,8 @@ body {
 }
 nav {
 	text-align: center;
+	background: #648880;
+    background: linear-gradient(to right, #f6f1d3, #648880, #293f50);
 }
 .info {
 	float: left;
@@ -38,4 +42,31 @@ nav {
 }
 footer {
 	clear: both;
+	background: #466368;
+	background: radial-gradient(#648880, #293f50);
+}
+
+/*--mrVolodymyr--*/
+
+.voFoto1 {
+	width: 160px;
+	height: 120px;
+	margin: 20px 30px;
+
+}
+.voP {
+	margin: 10px 20px;
+	font-family: veranda;
+}
+.voFoto2 {
+	width: 160px;
+	height: 120px;
+	margin: 20px 35px;
+	display: inline;
+	position: relative;
+	bottom: 10px;
+	opacity: 0.5;
+}
+.voFoto2:hover {
+	opacity: 1;
 }
