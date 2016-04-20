@@ -70,3 +70,36 @@ footer {
 .voFoto2:hover {
 	opacity: 1;
 }
+/* =========== INDEX3.HTML BEGIN ============*/
+#info {
+	background-color: #c2c2a3;
+}
+.i3_links li {
+	display: block;
+	width: 100%;
+	padding: 10px;
+	border-bottom: 2px solid #5c5c3d;
+}
+.i3_links li:hover {
+	
+	background-color: orange;
+}
+.i3_links a {
+	/*color: #1f1f14;*/
+	color: white;
+	text-shadow: 1px 1px 1px #000, 1px 0px 2px #000;
+	text-decoration: none;
+	font-weight: bold;
+}
+.i3_links ul {
+	padding: 0;
+	margin: 0;
+}
+/*#Manyava {
+	padding: 20px;
+}*/
+#Manyava img {
+	float: left;
+	padding: 0px 10px 0px 10px;
+}
+/* =========== INDEX3.HTML END ============*/
