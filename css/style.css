@@ -5,7 +5,6 @@ header, nav, article, footer {
 	border: 1px solid black;
 }
 body {
-	background-color: #99c2ff;
 	font-size: 100%;
 	font-family: arial, serif;
 	margin: 0 auto;
@@ -16,95 +15,27 @@ body {
 }
 header {
 	text-align: center;
-	background: #cccccc;
-	background: radial-gradient(circle, #648880, #cccccc);
-	opacity: .8;
-	
-
 }
 li {
 	display: inline;
 	margin-right: 20px;
-}
-a {
-	color: black;
-}
-a:hover {
-	color:red;
-}
-a:visited {
-	color:#260033;
 }
 body {
 	width: 100%;
 }
 nav {
 	text-align: center;
-	background: #648880;
-    background: radial-gradient(circle, #648880, #cccccc);
-    opacity: .9;
 }
 .info {
 	float: left;
 	width: 20%;
 	height: 70%;
-	background-color: #cccccc;
-	opacity: 0.9;
-	background: linear-gradient(to left, #648880, #cccccc);
 }
 .sector {
 	float: right;
 	width: 80%;
 	height: 70%;
-	background: linear-gradient(to right, #648880, #cccccc);
-	opacity: 0.9;
 }
 footer {
 	clear: both;
-	background: #466368;
-	background: radial-gradient(circle,#4d4d33, #648880);
-	opacity: 0.9;
-}
-
-/*CSS Andii Tarnovskyi */
-.gor {
-	width: 170px;
-	float: left;
-	height: 200px;
-}
-.gor img {
-	width: 100px;
-	height: 100px;
-	margin: 0 0 0 35px;
-	border-radius: 100%;
-}
-.gor p {
-	margin-bottom: 20px;
-	font-size: 12px;
-	text-align: center;
-	font-weight: bold;
-}
-/*--mrVolodymyr--*/
-
-.voFoto1 {
-	width: 160px;
-	height: 120px;
-	margin: 20px 30px;
-
-}
-.voP {
-	margin: 10px 20px;
-	font-family: veranda;
-}
-.voFoto2 {
-	width: 160px;
-	height: 120px;
-	margin: 20px 35px;
-	display: inline;
-	position: relative;
-	bottom: 10px;
-	opacity: 0.5;
-}
-.voFoto2:hover {
-	opacity: 1;
 }
