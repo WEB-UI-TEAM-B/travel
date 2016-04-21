@@ -65,6 +65,10 @@ footer {
 	background: radial-gradient(circle,#4d4d33, #648880);
 	opacity: 0.9;
 }
+.fotoy {
+        margin: 20px 20px;
+		display: inline;
+}	
 
 /*CSS Andii Tarnovskyi */
 .gor {
@@ -108,3 +112,4 @@ footer {
 .voFoto2:hover {
 	opacity: 1;
 }
+>>>>>>> refs/remotes/origin/master
