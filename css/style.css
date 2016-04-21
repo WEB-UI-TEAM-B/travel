@@ -98,8 +98,27 @@ footer {
 /*#Manyava {
 	padding: 20px;
 }*/
-#Manyava img {
+#i3_content img {
 	float: left;
-	padding: 0px 10px 0px 10px;
+	padding: 0px 10px 5px 10px;
+}
+
+
+#i3_content{
+	height: auto;
+	text-align: justify;
+	text-indent: 2.5em;
+	padding-right: 10px;
+	margin-bottom: 15px;
+}
+
+#i3_content h3 {
+	text-align: center;
+	font-size: 21px;
+}
+.i3_sidebar{
+	position: fixed;
+	width: 270px;
+	height: auto;
 }
 /* =========== INDEX3.HTML END ============*/
