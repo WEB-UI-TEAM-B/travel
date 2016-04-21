@@ -47,7 +47,7 @@ nav {
 .info {
 	float: left;
 	width: 20%;
-	height: 70%;
+	height: 100%;
 	background-color: #cccccc;
 	opacity: 0.9;
 	background: linear-gradient(to left, #648880, #cccccc);
@@ -55,7 +55,7 @@ nav {
 .sector {
 	float: right;
 	width: 80%;
-	height: 70%;
+	height: 100%;
 	background: linear-gradient(to right, #648880, #cccccc);
 	opacity: 0.9;
 }
